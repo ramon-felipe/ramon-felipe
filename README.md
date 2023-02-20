@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Ramon Felipe!
 Working in the IT area since 2009.
 Technology enthusiast who loves to program in different languages and keep up to date with the latest technologies and methodologies.
-Acting as backend developer, creating WEB APIs in C#;
+Acting as a Fullstack developer, creating WEB APIs in C# and using React + Typescript in the front end;
 Having previously worked as a developer analyst of automated tests with skills in regression tests (Web UI), Selenium WebDriver, TDD and BDD.
 
 - Good skills in:
